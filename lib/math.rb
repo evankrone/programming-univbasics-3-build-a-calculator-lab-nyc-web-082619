@@ -1,3 +1,6 @@
+num1 = Integer
+num2 = Integer
+
 def addition(num1, num2)
   sum = (#{num1} + #{num2})
   puts sum
